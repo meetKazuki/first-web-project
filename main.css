@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: silver;
+}
+
+.primary-header {
+    text-align: center;
+}
+.main-heading{
+    font-size:85px;
+    color:#205d76; 
+}
+.town-preview{
+    width:650px;
+}
+
+.store-section{
+    display: flex;
+    margin: 50px auto;
+    width:450px;
+}
+.building{
+    width:200px;
+}
+.store-details{
+    margin-left: 30px;
+}
+.category-heading{
+    font:30px;
+    color: #205d76;
+}
+.store-list{
+color:#ffc123;
+padding: 15px;
+}
+.store-name{
+    margin-bottom: 10px;
+}
+
+.primary-footer{
+    background-color: #ffc123;
+    padding: 2px;
+    text-align:center; 
+}
+.created-by{
+    color:#ffffff;
+    font-size:20px;
+}
